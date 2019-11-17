@@ -16,3 +16,6 @@
 	
 
 
+# Contributing
+
+- Read [this](CONTRIBUTING.md) for contributing guidelines.
